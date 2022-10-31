@@ -12,4 +12,5 @@
 Sorts Mythic+ keystones into their own categories.
 
 <img width="437" alt="mythic-keystone" src="https://user-images.githubusercontent.com/1850089/199098143-7cff16b9-f476-4b6e-afac-4eea6c3c74a4.png">
-![image](https://user-images.githubusercontent.com/1850089/199099132-b8fd39ad-069a-401c-83bd-89a0148647d8.png)
+
+<img width="437" alt="mythic-keystone" src="https://user-images.githubusercontent.com/1850089/199099132-b8fd39ad-069a-401c-83bd-89a0148647d8.png">
