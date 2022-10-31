@@ -1,10 +1,10 @@
 ## Interface: 100000
-## Title: AdiBags - Queens Conservatory
+## Title: AdiBags - Bears Keystones
 ## Version: @project-version@
 ## Author: Bearesquishy
 ## X-License: MIT
-## X-Curse-Project-ID: 606793
-## X-Wago-ID: Mj6j7OKR
+## X-Curse-Project-ID:
+## X-Wago-ID:
 ## DefaultState: enabled
 ## Dependancies: AdiBags
 
