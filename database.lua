@@ -23,7 +23,11 @@ db.Filters = {
 		title = "Keystones",
 		items = {
 			-- ID,	--Item name
-			[180653] = true,	-- Shadowlands Mythic+ Keystone
+			[138019] = "Mythic Keystone", -- Legion Keystone
+			[151086] = "Mythic Invitational Keystone", -- Tournament Stone
+			[158923] = "Mythic Keystone", -- BFA Keystone
+			[180653] = "Mythic Keystone", -- SL Keystone
+			[187786] = "Timeworn Keystone", -- Legion Timestone
 		},
 	}
 }
