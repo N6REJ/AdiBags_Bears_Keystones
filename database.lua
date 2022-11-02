@@ -1,13 +1,13 @@
--- AdiBags_Bears_Keystones - Database
+-- AdiBags Bears Keystones - Database
 -- Created by N6REJ character is Bearesquishy - dalaran please credit whenever.
 -- Source on GitHub: https://n6rej.github.io
 ---@type
 ---
 local addonName, addonTable = ...;
 
--- Get locals namse
-local L = addonTable.locales;
-local Expansion = L["Shadowlands"]
+-- Get the common expansion names from expansion.lua
+local E = addonTable.expansion
+local Expansion = E["Shadowlands"]
 
 -- Create addon table
 local db = { }
