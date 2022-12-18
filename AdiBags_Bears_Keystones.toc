@@ -10,5 +10,5 @@
 ## Dependancies: AdiBags
 
 expansion.lua
-database.lua
+SL-db.lua
 core.lua
